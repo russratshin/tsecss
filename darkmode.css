@@ -1892,3 +1892,7 @@ button[data-testid=query-visualizer-btn]::before {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+eureka-search-bar-module__searchBarWrapper {
+  background: #000000;
+}
