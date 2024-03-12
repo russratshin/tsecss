@@ -1088,7 +1088,8 @@ input.bk-search-input{
 	top: 0;
 	bottom: 0;
 	z-index: 9999; */
-	background-color: #000 !important;
+	/*background-color: #000 !important;*/
+	background-color: #FF0000 !important;
 }
 
 .bk-app-loading-indicator .load-wrapload-wrap,
