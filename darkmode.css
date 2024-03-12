@@ -3,9 +3,8 @@
 @import url('https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css');
 
 body {
- /*background:#131313 !important;*/
- background:#FF0000 !important;
- color:white !important;
+ background:#131313 !important;
+ color:blue !important;
  font-family:'Roboto',sans-serif
 }
 
@@ -1088,8 +1087,7 @@ input.bk-search-input{
 	top: 0;
 	bottom: 0;
 	z-index: 9999; */
-	/*background-color: #000 !important;*/
-	background-color: #FF0000 !important;
+	background-color: #000 !important;
 }
 
 .bk-app-loading-indicator .load-wrapload-wrap,
@@ -1874,13 +1872,11 @@ svg text {
 }
 
 .pinboard-header-module__pinboardHeader {
-/*   background-color: #000 !important; */
-  background-color: #FF000 !important;
+  background-color: #000 !important;
 }
 
 .pinboard-content-module__gridContainer {
-  /*background-color: #000 !important;*/
-  background-color: #FF000 !important;
+  background-color: #000 !important;
 }
 
 button[data-testid=query-visualizer-btn] > svg {
