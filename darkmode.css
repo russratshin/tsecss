@@ -1893,6 +1893,6 @@ button[data-testid=query-visualizer-btn]::before {
   -moz-osx-font-smoothing: grayscale;
 }
 
-eureka-search-bar-module__searchBarWrapper {
+.eureka-search-bar-module__searchBarWrapper {
   background: #000000;
 }
