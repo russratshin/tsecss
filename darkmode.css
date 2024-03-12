@@ -1874,11 +1874,13 @@ svg text {
 }
 
 .pinboard-header-module__pinboardHeader {
-  background-color: #000 !important;
+/*   background-color: #000 !important; */
+  background-color: #FF000 !important;
 }
 
 .pinboard-content-module__gridContainer {
-  background-color: #000 !important;
+  /*background-color: #000 !important;*/
+  background-color: #FF000 !important;
 }
 
 button[data-testid=query-visualizer-btn] > svg {
