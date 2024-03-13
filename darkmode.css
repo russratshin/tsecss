@@ -1897,6 +1897,6 @@ button[data-testid=query-visualizer-btn]::before {
   background: #000000;
 }
 
-.eureka-search-bar-module__searchBarWrapper .layout-module__horizontal {
+.eureka-search-bar-module__searchBarWrapper > .layout-module__horizontal {
   background: #000000;
 }
