@@ -1897,6 +1897,6 @@ button[data-testid=query-visualizer-btn]::before {
   background: #000000;
 }
 
-.eureka-search-bar-module__searchBarWrapper > .layout-module__horizontal {
+body > app-controller > blink-app-page > div > div > div > bk-embed > div > div > main > div > div.eureka-search-bar-module__searchBarWrapper.eureka-search-bar-module__sageEmbedSearchBarWrapper.layout-module__vertical.spacing-b > div > div.layout-module__horizontal {
   background: #000000;
 }
